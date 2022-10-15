@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Skelly57
 - 👀 I’m interested in video games, history, you know generic nerd stuff
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning some programming chicanery, your bits and bobs, the usual
 - 📫 How to reach me: Keep trying phone numbers. You'll get to me eventually
 
 <!---
